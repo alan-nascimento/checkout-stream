@@ -1,2 +1,4 @@
-zk-single-kafka-single
-node_modules
+kafka-zk
+.idea
+target
+checkout.iml
